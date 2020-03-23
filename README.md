@@ -2,6 +2,8 @@
 
 This is a simple script to count number from the Fibonacci sequence using Recursion or using loop.
 
+This is a project made for teaching purposes.
+
 ## How to use the program?
 
 1. Open command line
